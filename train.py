@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # train.csv 파일 읽기
-file_path = '/content/drive/MyDrive/Colab Notebooks/sw_contest/data/data/train.csv'  # 파일 경로 수정
+file_path = '/Users/an-yohan/Documents/GitHub/SW/data/train.csv'  # 파일 경로 수정
 data = pd.read_csv(file_path)
 
 # 시각화 스타일 설정
