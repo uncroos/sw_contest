@@ -15,4 +15,7 @@
 
 ## 2. 사용한 라이브러리 설치
 
-    pip install pandas matplotlib seaborn
+    pip install pandas
+    pip install matplotlib
+    pip install seaborn
+    pip install librosa
